@@ -1,8 +1,11 @@
-### Hi there 👋
-
 Let's learn programming & build apps
 
 Learning how to build modern apps should be easy and free. Curious Drive makes tutorials & writes blogs to help you build mobile and web apps for your ideas. Please check out our content on the social platforms below.
+
+Website : https://www.curiousdrive.com/
+Twitter : https://twitter.com/curious_drive
+Facebook : https://www.facebook.com/curiousdrive
+Instagram : https://www.instagram.com/curiousdrive/ 
 
 <!--
 **CuriousDrive/CuriousDrive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
