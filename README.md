@@ -2,7 +2,7 @@ Let's Learn Programming & Build Apps
 
 Learning how to build modern apps should be easy and free. Curious Drive makes tutorials to help you build mobile and web apps for your ideas. 
 
-Website : https://www.curiousdrive.com/  
+Website : https://curiousdrive.com/  
 Twitter : https://twitter.com/curious_drive  
 Facebook : https://www.facebook.com/curiousdrive  
 Instagram : https://www.instagram.com/curiousdrive/  
