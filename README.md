@@ -1,6 +1,4 @@
-Let's Learn Programming & Build Apps
-
-Learning how to build modern apps should be easy and free. Curious Drive makes tutorials to help you build mobile and web apps for your ideas. 
+Curious Drive is a programming playground that publishes coding problems to enhance your skills and programming courses to expand your knowledge.
 
 Website : https://curiousdrive.com/  
 Twitter : https://twitter.com/curious_drive  
